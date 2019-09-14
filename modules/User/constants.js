@@ -1,0 +1,2 @@
+export const USER_SET_TOKEN = 'USER_SET_TOKEN';
+export const USER_GET_PROFILE = 'USER_GET_PROFILE';
